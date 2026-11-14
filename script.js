@@ -1,4 +1,4 @@
-const DOMAIN_PRICE_USD = 3399; // Change the domain price here.
+const DOMAIN_PRICE_USD = 2000; // Change the domain price here.
 const getSellerEmail = () => ['yousefshabank', '@', 'gmail.com'].join(''); // Change the seller email parts here.
 
 (() => {
